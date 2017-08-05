@@ -50,7 +50,9 @@ public class Home {
         home();
 
     }
-
+public void gitTestCommit(){
+        
+}
     private void home() {
         file = new Menu("File");
         MenuItem logout = new MenuItem("Logout");
